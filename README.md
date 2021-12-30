@@ -16,4 +16,4 @@ Left side is a Original Image and the right side is the augmented image.
 ![Augmented data visualized](https://github.com/VishalxRana/Chest-X-Ray-Pneumonia-prediction/blob/main/Images/augmented_image.png)
 
 # Conclusion 
-Testing the model on the validation data provided in the dataset, it predicted 87% accurately.  
+Testing the model on the validation data provided in the dataset, it predicted **87%** accurately.  
